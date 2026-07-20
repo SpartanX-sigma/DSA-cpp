@@ -1,2 +1,3 @@
 # DSA-cpp
-This is my DSA progress tracking repo
+Hello there,  
+This repository is for tracking my competitve programming journey.
